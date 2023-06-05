@@ -29,7 +29,7 @@ Basic script for current Fuel/Prop times.
 
 //Design//
 
-Unlike the Mk1 which was a modified Ghast, this has been built as its own ship, making use of the speed and convience of the recylcle tool to rend found salvageinto mats.
+Unlike the Mk1 which was a modified Ghast, this has been built as its own ship, making use of the speed and convience of the recylcle tool to rend found salvage into mats.
 
 This also makes it doubles as a cheap starter 8 crate hand miner, for both belt and surface.
 
