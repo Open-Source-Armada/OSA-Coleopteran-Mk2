@@ -31,7 +31,7 @@ Basic script for current Fuel/Prop times.
 
 Unlike the Mk1 which was a modified Ghast, this has been built as its own ship, making use of the speed and convenience of the recycle tool to rend found salvage into mats.
 
-This also makes it doubles as a cheap starter 8 crate hand miner, for both belt and surface.
+This also makes it double as a cheap starter 8 crate hand miner, for both belt and surface.
 
 Mainly made to act as a expendable salvage ship during cargo crisis events, you can fill the the ship and be in and out undetected very quickly.
 
