@@ -5,7 +5,7 @@ Remade to be its own ship, the Coleopteran Mk2 is a short range disposable crate
 
 140 m/s max speed dry, wet speed will vary.
 
-T2 maneuver thrusters, no trails.
+T2 maneuverer thrusters, no trails.
 
 Sensitivity settings are adjustable from a yolo chips located beside the pilot seat, this chip only adjusts your sense settings and is not vital to the operation of the aim system, you can use the U-tool save feature to save your sense settings to the ship post print.
 
@@ -29,13 +29,13 @@ Basic script for current Fuel/Prop times.
 
 //Design//
 
-Unlike the Mk1 which was a modified Ghast, this has been built as its own ship, making use of the speed and convience of the recylcle tool to rend found salvage into mats.
+Unlike the Mk1 which was a modified Ghast, this has been built as its own ship, making use of the speed and convenience of the recycle tool to rend found salvage into mats.
 
 This also makes it doubles as a cheap starter 8 crate hand miner, for both belt and surface.
 
 Mainly made to act as a expendable salvage ship during cargo crisis events, you can fill the the ship and be in and out undetected very quickly.
 
-Deliberatly low tech and cheap, utilising stealthy manoeuvre thrusters to avoid direct fights in PvP zones, at the cost of prop range.
+Deliberately low tech and cheap, utilising stealthy manoeuvre thrusters to avoid direct fights in PvP zones, at the cost of prop range.
 
 Plates are hidden inside the crate layer surrounding the critical components, to reduce lethality from hostile endos.
 
